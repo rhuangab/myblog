@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jerry</title><link href="http://rhuangab.github.io/myblog/" rel="alternate"></link><link href="http://rhuangab.github.io/myblog/feeds/review.atom.xml" rel="self"></link><id>http://rhuangab.github.io/myblog/</id><updated>2014-11-03T10:20:00-06:00</updated><entry><title>What's up</title><link href="http://rhuangab.github.io/myblog/whats-up.html" rel="alternate"></link><updated>2014-11-03T10:20:00-06:00</updated><author><name>Richeng</name></author><id>tag:rhuangab.github.io,2014-11-03:myblog/whats-up.html</id><summary type="html">&lt;h1&gt;Hello! Welcome!&lt;/h1&gt;
-&lt;p&gt;Long time no see.&lt;br /&gt;
-Do you want to read codes?&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Accepted&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary></entry></feed>
